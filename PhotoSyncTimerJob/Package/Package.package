@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="69cba186-33e2-4afc-83b7-4102281706c0" solutionId="69cba186-33e2-4afc-83b7-4102281706c0" resetWebServer="false" sharePointProductVersion="15.0" name="CC_PhotoSyncTimerJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f00a4765-87d7-4e5f-b1a4-6520c1571e95" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="f1fa6af9-23a7-46d3-9b45-8753d1036f19" />
+  </projectItems>
+</package>
