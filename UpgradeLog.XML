@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-16"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeReport>
+<Properties/><Event ErrorLevel="2" Project="CC_PhotoSyncTimerJob" Source="CC_PhotoSyncTimerJob\CC_PhotoSyncTimerJob.csproj" Description="The application which this project type is based on was not found. Please try this link for further information: http://go.microsoft.com/fwlink/?prd=12395&amp;pver=11&amp;sbp=ProjectTypeDeprecated&amp;plcid=0x409&amp;clcid=0x409&amp;ar=MSDN&amp;sar=ProjectCompatibility&amp;o1=C1CDDADD-2546-481F-9697-4EA41081F2FC">
+</Event><Event ErrorLevel="3" Project="CC_PhotoSyncTimerJob" Source="CC_PhotoSyncTimerJob\CC_PhotoSyncTimerJob.csproj" Description="Incompatible">
+</Event><Event ErrorLevel="0" Project="" Source="CC_PhotoSyncTimerJob.sln" Description="The solution file does not require migration.">
+</Event><Event ErrorLevel="3" Project="" Source="CC_PhotoSyncTimerJob.sln" Description="No migration required. Your projects will open without modification">
+</Event></UpgradeReport>
